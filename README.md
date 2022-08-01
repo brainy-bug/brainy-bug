@@ -6,7 +6,8 @@ I'm a passionate Frontend developer having one year of experience in fronend web
 - 🌱 I’m currently learning **Tailwindcss** and **Reactjs**
 - 👯 I’m looking to collaborate on **web-based projects**
 - 😄 Pronouns: **He/Him**
-- 📫 How to reach me: 
+
+## 📫 How to reach me:
  - Social Media
  	  - [Twitter](https://twitter.com/yinkaah_)
 
