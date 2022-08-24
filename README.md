@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abdulrasheed
 
 ## 🧐 About <a name = "about"></a>
-I'm a passionate Frontend developer having one year of experience in fronend web development. Love to write code and build useful tools with my skills. Always learning and exploring new things.
+I'm a passionate Frontend developer having one year of experience in frontend web development. Love to write code and build useful tools with my skills. Always learning and exploring new things.
 
 - 🌱 I’m currently learning **Tailwindcss** and **Reactjs**
 - 👯 I’m looking to collaborate on **web-based projects**
