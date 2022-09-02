@@ -3,7 +3,7 @@
 ## 🧐 About <a name = "about"></a>
 I'm a passionate Frontend developer having one year of experience in frontend web development. Love to write code and build useful tools with my skills. Always learning and exploring new things.
 
-- 🌱 I’m currently learning **Tailwindcss** and **Reactjs**
+- 🌱 I’m currently learning **Reactjs** with [John Smilga](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 - 👯 I’m looking to collaborate on **web-based projects**
 - 😄 Pronouns: **He/Him**
 
