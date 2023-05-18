@@ -12,13 +12,13 @@ I'm a passionate Frontend developer having two years of experience in frontend w
  	  - [Twitter](https://twitter.com/yinkaah_)
 
 ## Github Stats 
-[![yinkajs's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinkajs&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![devYinka's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYinka&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yinkajs&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=devYinka&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yinkajs&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devYinka&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **yinkajs/yinkajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
