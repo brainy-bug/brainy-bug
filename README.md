@@ -12,11 +12,11 @@ I'm a passionate Frontend developer having two years of experience in frontend w
  	  - [Twitter](https://twitter.com/yinkaah_)
 
 ## Github Stats 
-[![rashdevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashdevv&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![brainy-bug's GitHub stats](https://github-readme-stats.vercel.app/api?username=brainy-bug&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rashdevv&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=brainy-bug&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rashdevv&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brainy-bug&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
