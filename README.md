@@ -3,7 +3,7 @@
 ## 🧐 About <a name = "about"></a>
 I'm a passionate Frontend developer having two years of experience in frontend web development. Love to write code and build useful tools with my skills. Always learning and exploring new things.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Madamidola%20Abdulrasheed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/abdulrasheed-madamidola-73640a260)
+[![Linkedin Badge](https://img.shields.io/badge/-Madamidola%20Abdulrasheed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/yinkaah)
 [![Twitter Badge](https://img.shields.io/badge/-@yinkaah_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/asia_magana)](https://twitter.com/yinkaah_)
 
 ```javascript
