@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abdulrasheed
 
 ## 🧐 About <a name = "about"></a>
-I'm a passionate Frontend developer having two years of experience in frontend web development. Love to write code and build useful tools with my skills. Always learning and exploring new things.
+I'm a passionate Web and Mobile developer having 2+years of experience in frontend web development. Love to write code and build useful tools with my skills. Always learning and exploring new things.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Madamidola%20Abdulrasheed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/yinkaah)
 [![Twitter Badge](https://img.shields.io/badge/-@yinkaah_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/asia_magana)](https://twitter.com/yinkaah_)
@@ -13,7 +13,7 @@ const aboutAbdulrasheed = {
     nationality: "Nigerian",
     jobStatus: ["Student"],
     hobbies: ["Reading", "Exploring new things"],
-    techStack:["CSS", "JavaScript", "React", "HTML", "Chakra UI", "Bootstrap"],
+    techStack:["HTML", "CSS", "JavaScript", "Typescript", "React", "React Native"],
     isWorkingNow: false,
     telephoneNumber: "+2349038450563",
     socialMedias: ["LinkedIn", "WhatsApp", "Twitter","Instagram"],
@@ -29,7 +29,7 @@ const aboutAbdulrasheed = {
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Typescript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
