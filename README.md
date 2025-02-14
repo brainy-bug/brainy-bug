@@ -48,7 +48,7 @@ const aboutAbdulrasheed = {
   <td halign="bottom"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainy-bug&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Madamidola Abdulrasheed github stat" align="center"/>
   </td>
 
-  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=brainy-bug&theme=chartreuse-dark"></td>
+  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=brainy-bug&theme=chartreuse-dark" alt="Madamidola Abdulrasheed github streak"></td>
 </tr>
 </table>
 
